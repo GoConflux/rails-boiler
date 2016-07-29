@@ -35,3 +35,9 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
 end
+
+gem 'conflux', '1.0.7'
+
+gem 'aws-sdk', '2.3.19'
+
+gem 'pg', '0.17.1'
